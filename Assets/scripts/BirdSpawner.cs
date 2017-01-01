@@ -15,7 +15,7 @@ public class BirdSpawner : MonoBehaviour {
 	public float collisionDist = 5f;
 	public float velocityMatchAmt = 0.01f;
 	public float flockCenteringAmt = 0.15f;
-	public float collisionAvoidanceDist = -0.5f;
+	public float collisionAvoidanceAmt = -0.5f;
 	public float mouseAttractionAmt = 0.01f;
 	public float mouseAvoidAmt = 0.75f;
 	public float mouseAvoidDist = 15f;
